@@ -13,3 +13,5 @@ Publishing with GitHub Pages
 4. After deployment completes, visit https://laravel21.github.io/kishore-portfolio/.
 
 The site uses plain HTML, CSS and JavaScript; no build step is required.
+
+Online resume: [resume.html](./resume.html) — use the Print / Save as PDF button to save a PDF copy.
